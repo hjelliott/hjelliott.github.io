@@ -1,0 +1,22 @@
+# Setup
+title:              Telemetrics
+tagline:             'Strategic Advisory'
+description:         '  '
+url:                 http://telemetrics.com.au
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Howard Elliott
+  url:              
+  email:             howard@telemetrics.com.au
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
