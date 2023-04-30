@@ -3,36 +3,33 @@ layout: default
 title: Home
 ---
 
-<h1>Top of page</h1>
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<h1>Welcome to Telemetrics Pty Limited.</h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+<p>Telemetrics provides advanced remote asset tracking solutions to Australian and international clients.</p>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+<p>Telemetrics core areas of expertise include:</p>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<ul>Software design and Development
+<li>Payment and financial systems</li>
+Satellite based Asset Tracking and location solutions</li>
+GPRS and mobile phone based location solutions</li>
+Heavy asset billing and usage based billling systems</li>
+Timetable and On-Time Running systems</li>
+Automated public announcment systems</li>
+</ul>
+<p>Telemetrics core competencies include:</p>
+
+<ul>
+<li>System Design and Engineering</li>
+<li>System Development</li>
+<li>Equipment Acquisition</li>
+<li>Contract Negotiation</li>
+<li>Expert Witness Services</li>
+<li>Expert Determination, Mediation and Dispute resolution</li>
+</ul>
+<p>Since 1986, Telemetrics has assisted a large number of blue chip clients achieve their objectives. These clients have heavy assets deployed locally and internationally including Australia, New Zealand, Thailand, Malaysia and China.
+</p>
+
+<p>Contact us to see how Telemetrics can help you improve your revenues.
+</p>
+
