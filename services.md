@@ -3,8 +3,6 @@ layout: page
 title: Services
 ---
 
-## Services
-
 Telemetrics provides a range of independent network and technology consulting services. Generally, these services fall into one of the following categories.
 
 # Contract Negotiation and Preparation
