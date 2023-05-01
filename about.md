@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+order: 10
 ---
 
 Telemetrics Pty Ltd is an independent management and technology consultancy based in Sydney, Australia.
