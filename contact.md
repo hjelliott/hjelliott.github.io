@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Contact Us
+order: 50
 ---
 
 Telemetrics is headquartered in Sydney, Australia.
