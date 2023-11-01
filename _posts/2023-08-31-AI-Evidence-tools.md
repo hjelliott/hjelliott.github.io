@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  Use of AI to Assist Experts in the Analysis of Documentary Evidence
+title:  The Use of AI to Assist Experts in the Analysis of Documentary Evidence
+excerpt_separator: <!--more-->
 ---
-
-# The Use of AI to Assist Experts in the Analysis of Documentary Evidence
 
 ## Abstract
 This article discusses the use of Artificial Intelligence (AI) tools by Experts in the analysis of documentary evidence. For this article, documentary evidence means documents discovered or otherwise provided and includes reports, emails and other business documents (that is, mainly text based documents). The application of AI frameworks like ChatGPT or other natural language processing (NLP) technologies in the legal domain, specifically for the analysis of documentary evidence, presents both promising opportunities and significant challenges. If the challenges can be overcome the opportunities presented will see significant increases in productivity for Experts. In most scenarios, documents are provided as a set of digital files; typically, not indexed. In many cases document management systems have been used to improve productivity.
+
+<!--more-->
 
 ## What’s the Problem
 Most civil legal cases involve large numbers of documents, often provided through a court direction (subpoena, notice to produce).  These be complex documents with the contents semantically bound in the subject matter context. For example, documents in an IT related matter may contain significant language that relates to IT and must be interpreted in that context.
