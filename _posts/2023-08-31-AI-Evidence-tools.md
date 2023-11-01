@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Use of AI to Assist Experts in the Analysis of Documentary Evidence"
+title:  Use of AI to Assist Experts in the Analysis of Documentary Evidence
 ---
 
-#The Use of AI to Assist Experts in the Analysis of Documentary Evidence
+# The Use of AI to Assist Experts in the Analysis of Documentary Evidence
 
-##Abstract
+## Abstract
 This article discusses the use of Artificial Intelligence (AI) tools by Experts in the analysis of documentary evidence. For this article, documentary evidence means documents discovered or otherwise provided and includes reports, emails and other business documents (that is, mainly text based documents). The application of AI frameworks like ChatGPT or other natural language processing (NLP) technologies in the legal domain, specifically for the analysis of documentary evidence, presents both promising opportunities and significant challenges. If the challenges can be overcome the opportunities presented will see significant increases in productivity for Experts. In most scenarios, documents are provided as a set of digital files; typically, not indexed. In many cases document management systems have been used to improve productivity.
 
-##What’s the Problem
+## What’s the Problem
 Most civil legal cases involve large numbers of documents, often provided through a court direction (subpoena, notice to produce).  These be complex documents with the contents semantically bound in the subject matter context. For example, documents in an IT related matter may contain significant language that relates to IT and must be interpreted in that context.
 Individual documents may be large, in terms of total word count, which requires significant effort to read and understand. The interconnectedness between the contents of documents may be dependent on the context of the document and the context of the matter. 
 A number of tools currently exist (see below) which automate eDiscovery and provide a controlled framework within which a litigation team can review and analyse documents. Some of the tools offer analysis tools which include named entity recognition.
 The ideal “solution” is that an Expert could train an AI tool to read each document and provide analysis of the contents based on (a) the context of the specific legal matter; (b) the context of the document subject matter area; and, (c) the perspective of the Expert. The training would be iterative such that the analysis is recursively refined following feedback from the Expert. The result would be a more focussed analysis through the perspective of the Expert.
 
-##Advantages:
+## Advantages:
 The availability of such a tool has some key and obvious advantages. These are typically driving productivity of the Expert and include:
 
 - Efficiency: AI can sort through large volumes of data faster than a human can, reducing the time and manpower needed.
@@ -22,7 +22,7 @@ The availability of such a tool has some key and obvious advantages. These are t
 - Interconnectedness: AI can potentially identify relationships and patterns within the data that might not be immediately apparent to human analysts. Further AI can present these relationships in many ways including graphical representations such as network diagrams and thematic maps.
 
 
-##Challenges:
+## Challenges:
 There are some obvious challenges with an AI approach. These include:
 
 - Complexity: Legal documents often contain language and concepts that are complex and specialised, making it difficult to program an AI tool to understand them fully.
@@ -35,7 +35,7 @@ There are some obvious challenges with an AI approach. These include:
 - Ethical and Legal Concerns: The use of AI in legal decision-making will raise concerns about bias, accountability, and data privacy.
 
 
-##Practical Approaches:
+## Practical Approaches:
 - Training the AI: The AI tool could be trained or fine-tuned using a set of legal documents that are relevant to the case at hand. Ideally these would be the pleadings (and the defence). This way, it becomes more sensitive to the language, concepts, and context specific to the case. Further the knowledge and expertise of the Expert would contribute to the AI knowledge base. That is, the model could be trained to view documents from a particular perspective (that of the expert).
 - Query-based Analysis: Experts could interact with the AI system to pose queries related to the case, refining the AI’s understanding and improving the relevance of its output. This is akin to the ChatBot model such as is used by tools like ChatGPT and Bard.
 - Annotation and Feedback Loop: Experts could manually annotate a subset of the documents to teach the AI system what to look for. This could also be a part of a feedback loop where the AI learns from the corrections and insights provided by experts.
@@ -44,7 +44,7 @@ There are some obvious challenges with an AI approach. These include:
 - Transparency and Auditability: Being able to trace back the AI’s decision-making process is crucial for ethical and legal compliance. This is particularly important where some of the output of the tool is tendered as evidence.
 
 
-##Document Analysis – what does this mean?
+## Document Analysis – what does this mean?
 
 Current models of document analysis follow a general process similar to:
 
@@ -72,7 +72,7 @@ Summarisation and Chat use techniques including
 - Extractive summarisation - takes out the important sentences or phrases from the original text and joins them to form a summary. It can use amongst other techniques, output from Feature Extraction to determine the importance.
 - Abstractive summarisation – seeks to produce a document summary in a more readable form. There are many methodologies uses in this area. Perhaps the most relevant to us is the ontological method which informs the summarisation through the use of a domain knowledge base.
 
-##What is There Now
+## What is There Now
 The integration of artificial intelligence into legal technology (often referred to as "LegalTech") has spurred the development of various tools that can assist in the document analysis process. However, it's essential to understand that the landscape is continually evolving, and new tools are emerging rapidly. Here is a list of the more commonly known tools relevant to this space.
 
 - Generic LLM platforms including OpenAI's GPT-3 or GPT-4, Google Bard etc: These can be fine-tuned for specific tasks, including legal text analysis.
@@ -98,7 +98,7 @@ The integration of artificial intelligence into legal technology (often referred
 
 This is a non-exhaustive list serving to illustrate that some solutions exist. Further, additional document analysis tools are emerging on an increasingly regular basis.
 
-##The Ideal Tool
+## The Ideal Tool
 
 So what would the ideal tool look like?
 
@@ -136,5 +136,5 @@ Specificity:
 
 Validate and Refine (Iterative Feedback):  An expert reviews and corrects the outputs, and those corrections are used to refine future prompts. 
 
-##Conclusion
+## Conclusion
 AI tools have great potential in assisting with the analysis of documentary evidence in legal cases. Orchestrating these tools into a productive toolset for experts will result in significant productivity gains for the expert. Using the expert as the primary trainer would provide for the output of this system to validly and defensibly form an important piece of the expert’s opinion.
