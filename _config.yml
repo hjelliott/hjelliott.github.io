@@ -5,6 +5,7 @@ description:         '  '
 url:                 https://telemetrics.com.au
 baseurl:             ''
 paginate:            5
+paginate_path:      "/_posts/page:num/"
 permalink:           pretty
 
 # About/contact
