@@ -52,5 +52,13 @@ title: Home
 <p>Contact us to see how Telemetrics can help you improve your revenues.
 </p>
 
-
+<h2>Articles and Blogs</h2>
+<p>Here is a list of articles published recently</p>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
