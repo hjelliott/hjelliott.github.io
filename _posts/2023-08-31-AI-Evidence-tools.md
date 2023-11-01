@@ -48,7 +48,7 @@ There are some obvious challenges with an AI approach. These include:
 
 Current models of document analysis follow a general process similar to:
 
-![Document Analysis](../../_assets/Document-Analysis.png)
+![Document Analysis](/assets/Document-Analysis.png)
 
 Pre-processing is typically the first step and may be used to:
 
