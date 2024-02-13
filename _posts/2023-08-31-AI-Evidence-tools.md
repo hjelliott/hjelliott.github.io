@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Use of AI to Assist Experts in the Analysis of Documentary Evidence
+title: The Use of AI to Assist Experts in the Analysis of Documentary Evidence
 excerpt_separator: <!--more-->
 ---
 

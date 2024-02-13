@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Embracing Generative AI: A Director's Guide to the Future of Corporate Governance
+title:  Embracing Generative AI - A Director's Guide to the Future of Corporate Governance
 excerpt_separator: <!--more-->
 ---
 
