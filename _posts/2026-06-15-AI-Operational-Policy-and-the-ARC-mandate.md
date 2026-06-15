@@ -62,7 +62,7 @@ The AI Operational Policy does not ask Audit and Risk Committees to do something
 
 ## Appendix: an ARC cheat sheet
 
-This table maps each element of the NSW AI Operational Policy to the TPP20-08 anchor that brings it within the committee's mandate, and the oversight angle a committee would take. It is intended to be used on its own as a one-page reference. You can download a [PDF version here](../assets/ARC-AI-Policy-cheat-sheet.pdf).
+This table maps each element of the NSW AI Operational Policy to the TPP20-08 anchor that brings it within the committee's mandate, and the oversight angle a committee would take. It is intended to be used on its own as a one-page reference. You can download a [PDF Version Here]({{ '/assets/ARC-AI-Policy-cheat-sheet.pdf' | relative_url }}).
 
 | AI Operational Policy element | What the policy requires | TPP20-08 anchor | ARC oversight angle |
 |---|---|---|---|
