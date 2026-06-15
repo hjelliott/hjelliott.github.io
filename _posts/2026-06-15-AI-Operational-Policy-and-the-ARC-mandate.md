@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  AI governance meets the audit and risk mandate: what the NSW AI Operational Policy means for Audit and Risk Committees
+title:  AI governance - what the NSW AI Operational Policy means for Audit and Risk Committees
 excerpt_separator: <!--more-->
 ---
 # AI governance meets the audit and risk mandate: what the NSW AI Operational Policy means for Audit and Risk Committees
